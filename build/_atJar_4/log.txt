@@ -1,0 +1,7 @@
+Java Launcher: /home/kaninchenspeed/.gradle/jdks/eclipse_adoptium-17-amd64-linux.2/bin/java
+Arguments: '--inJar, /home/kaninchenspeed/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.12/forge-1.20.1-47.3.12-injected.jar, --outJar, /home/kaninchenspeed/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.12_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.3.12_mapped_parchment_2023.09.03-1.20.1.jar, --logFile, accesstransform.log, --atFile, /home/kaninchenspeed/IdeaProjects/ModpackDownloader/build/_atJar_4/parent_at.cfg'
+Classpath:
+ - /home/kaninchenspeed/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.2.0/accesstransformers-8.2.0-fatjar.jar
+Working directory: /home/kaninchenspeed/IdeaProjects/ModpackDownloader/build/_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
