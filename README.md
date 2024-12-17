@@ -75,8 +75,8 @@ Directories will not be created automatically, they have to be present in the .z
 
 ```json
 {
-  "URL...": "path to save file to",
-  "https://example.com/some/url/test-mod-v1-0-0.jar": "mods/test-mod.jar",
+  "path to save file to": "URL...",
+  "mods/test-mod.jar": "https://example.com/some/url/test-mod-v1-0-0.jar",
   ...
 }
 ```
