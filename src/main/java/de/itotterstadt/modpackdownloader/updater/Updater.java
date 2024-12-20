@@ -108,9 +108,9 @@ public class Updater {
                 sb.append(br.nextLine());
             }
             br.close();
-            String deleteStr = sb.toString();
+            String downloadStr = sb.toString();
             Gson gson = new Gson();
-            Map<String, String> files = (Map<String, String>) gson.fromJson(deleteStr, Map.class);
+            Map<String, String> files = (Map<String, String>) gson.fromJson(downloadStr, Map.class);
             for (String path : files.keySet()) {
                 String url = files.get(path);
                 Modpackdownloader.LOGGER.info("downloading " + url + " to " + path);
